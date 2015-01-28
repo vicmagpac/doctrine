@@ -16,7 +16,7 @@ class Categoria
     private $id;
 
     /**
-     * @Column(type="string", nama="nome", nullable=true)
+     * @Column(type="string", name="nome", nullable=true)
      */
     private $nome;
 
